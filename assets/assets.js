@@ -68,42 +68,42 @@ export const albumsData = [
     {   
         id:0,
         name: "Top 50 Global",
-        image: img8,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img9.jpg?raw=true',
         desc:"Your weekly update of the most played tracks",
         bgColor:"#2a4365"
     },
     {   
         id:1,
         name: "Top 50 India",
-        image: img9,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img9.jpg?raw=true',
         desc:"Your weekly update of the most played tracks",
         bgColor:"#22543d"
     },
     {   
         id:2,
         name: "Trending India",
-        image: img10,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img9.jpg?raw=true',
         desc:"Your weekly update of the most played tracks",
         bgColor:"#742a2a"
     },
     {   
         id:3,
         name: "Trending Global",
-        image: img16,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img9.jpg?raw=true',
         desc:"Your weekly update of the most played tracks",
         bgColor:"#44337a"
     },
     {   
         id:4,
         name: "Mega Hits",
-        image: img11,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img9.jpg?raw=true',
         desc:"Your weekly update of the most played tracks",
         bgColor:"#234e52"
     },
     {   
         id:5,
         name: "Happy Favorites",
-        image: img15,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img9.jpg?raw=true',
         desc:"Your weekly update of the most played tracks",
         bgColor:"#744210"
     }
@@ -113,7 +113,7 @@ export const songsData = [
     {
         id:0,
         name: "Song One",
-        image: img1,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img2.jpg?raw=true',
         file:null,
         desc:"Put a smile on your face with these happy tunes",
         duration:"3:00"
@@ -121,7 +121,7 @@ export const songsData = [
     {
         id:1,
         name: "Song Two",
-        image: img2,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img2.jpg?raw=true',
         file:null,
         desc:"Put a smile on your face with these happy tunes",
         duration:"2:20"
@@ -129,7 +129,7 @@ export const songsData = [
     {
         id:2,
         name: "Song Three",
-        image: img3,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img2.jpg?raw=true',
         file:null,
         desc:"Put a smile on your face with these happy tunes",
         duration:"2:32"
@@ -137,7 +137,7 @@ export const songsData = [
     {
         id:3,
         name: "Song Four",
-        image: img4,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img2.jpg?raw=true',
         file:null,
         desc:"Put a smile on your face with these happy tunes",
         duration:"2:50"
@@ -145,7 +145,7 @@ export const songsData = [
     {
         id:4,
         name: "Song Five",
-        image: img5,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img2.jpg?raw=true',
         file:null,
         desc:"Put a smile on your face with these happy tunes",
         duration:"3:10"
@@ -153,7 +153,7 @@ export const songsData = [
     {
         id:5,
         name: "Song Six",
-        image: img14    ,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img2.jpg?raw=true'    ,
         file:null,
         desc:"Put a smile on your face with these happy tunes",
         duration:"2:45"
@@ -161,7 +161,7 @@ export const songsData = [
     {
         id:6,
         name: "Song Seven",
-        image: img7,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img2.jpg?raw=true',
         file:null,
         desc:"Put a smile on your face with these happy tunes",
         duration:"2:18"
@@ -169,7 +169,7 @@ export const songsData = [
     {
         id:7,
         name: "Song Eight",
-        image: img12,
+        image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img2.jpg?raw=true',
         file:null,
         desc:"Put a smile on your face with these happy tunes",
         duration:"2:35"
