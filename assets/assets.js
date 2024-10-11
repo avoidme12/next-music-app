@@ -70,7 +70,7 @@ export const albumsData = [
         name: "Top 50 Global",
         image: 'https://github.com/avoidme12/next-music-app/blob/main/assets/img9.jpg?raw=true',
         desc:"Your weekly update of the most played tracks",
-        bgColor:"#2a4365"
+        bgColor:"#033559"
     },
     {   
         id:1,
